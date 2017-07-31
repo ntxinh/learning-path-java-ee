@@ -35,7 +35,7 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
 - JPA:
   + [Java Persistence API (JPA) 2.1 - Antonio Goncalves](https://www.pluralsight.com/courses/java-persistence-api-21)
 
-# Interoperability
+# Interoperability Tier
 - JAX-WS:
 - JAX-RS:
   + [RESTful Service with JAX-RS 2.0 - Alex Theedom](https://www.lynda.com/Java-tutorials/RESTful-Service-JAX-RS-2-0/574687-2.html)
