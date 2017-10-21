@@ -51,16 +51,16 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
 
 ## Concept
 - Must have:
-  + Java EE 7 Essenials
+  + Java EE 7 Essenials | O'Reilly Media | Arun Gupta
   + [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
   + [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - Should have:
 
 - Nice to have:
-  + Beginning Java EE 7 - Antonio Goncalves
-  + Spring in Action
-  + Spring Boot in Action
-  + Just Spring
+  + Beginning Java EE 7   | Apress         | Antonio Goncalves
+  + Spring in Action      | Manning        | Craig Walls
+  + Spring Boot in Action | Manning        | Craig Walls
+  + Just Spring           | O'Reilly Media | Madhusudhan Konda
 
 ## Approach & Solution
 - Must have:
@@ -68,10 +68,10 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
 - Should have:
 
 - Nice to have:
-  + Building a RESTful Web Service - Ludovic Dewailly (View source code first)
-  + Spring Microservices
-  + Spring REST
-  + Building a REST API with Spring
-  + Spring Mvc Designing Real World Web Applications
-  + Spring Persistence with Hibernate
-  + Spring Recipes A Problem Solution Approach 3rd
+  + Building a RESTful Web Service with Spring        | PACKT Books | Ludovic Dewailly (View source code first)
+  + Spring Microservices                              | PACKT Books | Rajesh R. V
+  + Spring REST                                       | Apress      | Balaji Varanasi, Sudha Belida
+  + Building a REST API with Spring 4
+  + Spring MVC: Designing Real World Web Applications | PACKT Books | Shameer Kunjumohamed, Hamidreza Sattari, Alex Bretet, Geoffroy Warin
+  + Spring Persistence with Hibernate                 | Apress      | Brian D. Murphy, Paul Fisher
+  + Spring Recipes A Problem Solution Approach 3rd    | Apress      | Marten Deinum with Daniel Rubio, Josh Long, and Gary Mak
