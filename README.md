@@ -57,10 +57,10 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
 - Should have:
 
 - Nice to have:
-  + Beginning Java EE 7   | Apress         | Antonio Goncalves
-  + Spring in Action      | Manning        | Craig Walls
-  + Spring Boot in Action | Manning        | Craig Walls
-  + Just Spring           | O'Reilly Media | Madhusudhan Konda
+  + `Beginning Java EE 7   | Apress         | Antonio Goncalves`
+  + `Spring in Action      | Manning        | Craig Walls`
+  + `Spring Boot in Action | Manning        | Craig Walls`
+  + `Just Spring           | O'Reilly Media | Madhusudhan Konda`
 
 ## Approach & Solution
 - Must have:
@@ -68,10 +68,10 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
 - Should have:
 
 - Nice to have:
-  + Building a RESTful Web Service with Spring        | PACKT Books | Ludovic Dewailly (View source code first)
-  + Spring Microservices                              | PACKT Books | Rajesh R. V
-  + Spring REST                                       | Apress      | Balaji Varanasi, Sudha Belida
-  + Building a REST API with Spring 4
-  + Spring MVC: Designing Real World Web Applications | PACKT Books | Shameer Kunjumohamed, Hamidreza Sattari, Alex Bretet, Geoffroy Warin
-  + Spring Persistence with Hibernate                 | Apress      | Brian D. Murphy, Paul Fisher
-  + Spring Recipes A Problem Solution Approach 3rd    | Apress      | Marten Deinum with Daniel Rubio, Josh Long, and Gary Mak
+  + `Building a RESTful Web Service with Spring        | PACKT Books | Ludovic Dewailly`
+  + `Spring Microservices                              | PACKT Books | Rajesh R. V`
+  + `Spring REST                                       | Apress      | Balaji Varanasi, Sudha Belida`
+  + `Building a REST API with Spring 4`
+  + `Spring MVC: Designing Real World Web Applications | PACKT Books | Shameer Kunjumohamed, Hamidreza Sattari, Alex Bretet, Geoffroy Warin`
+  + `Spring Persistence with Hibernate                 | Apress      | Brian D. Murphy, Paul Fisher`
+  + `Spring Recipes A Problem Solution Approach 3rd    | Apress      | Marten Deinum with Daniel Rubio, Josh Long, and Gary Mak`
