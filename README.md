@@ -1,13 +1,13 @@
 # ARCHITECTURE
 
 ## Web Profile
-![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Web-profile.png)
+![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Web-Profile.png)
 
 ## Java EE Architecture
 ![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Java-EE-Architecture.png)
 
 ## Java EE Tiers
-![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Java-EE-tiers.png)
+![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Java-EE-Tiers.png)
 
 ## Rest Application
 ![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Rest-Application.png)
