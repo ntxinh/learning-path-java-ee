@@ -1,8 +1,10 @@
+# ARCHITECTURE
+
 ![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Java-EE-architecture.png)
 
 Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Java-tutorials/Java-Enterprise-Edition-Introduction/516591-2.html)
 
-# Common Tier
+## Common Tier
 - CDI: 
   + [Context and Dependency Injection (CDI 1.1) - Antonio Goncalves](https://www.pluralsight.com/courses/context-dependency-injection-1-1)
 - Interceptors:
@@ -15,7 +17,7 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
   + [Scaling Java Applications Through Concurrency - Josh Cummings](https://www.pluralsight.com/courses/scaling-java-applications-through-concurrency)
   + [Java Fundamentals - Concurrency with Multithreading - David Flynn](https://www.pluralsight.com/courses/java-fundamentals-multithreading-concurrency)
 
-# Web Tier
+## Web Tier
 - JSF:
   + [Java EE: Getting Started with JavaServer Faces - Jesper Jong](https://www.pluralsight.com/courses/javaserver-faces-getting-started-java-ee)
   + [Java EE: Servlets and JavaServer Faces - Patrick Royal](https://www.lynda.com/Java-tutorials/Java-EE-Essentials-Servlets-JavaServer-Faces/124399-2.html)
@@ -28,14 +30,14 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
 - WebSocket:
   + [WebSocket Programming with Java EE - Alex Theedom](https://www.lynda.com/Java-tutorials/WebSocket-Programming-Java-EE/574694-2.html)
 
-# Business Tier
+## Business Tier
 - JTA:
 - EJB:
 - JBatch:
 - JPA:
   + [Java Persistence API (JPA) 2.1 - Antonio Goncalves](https://www.pluralsight.com/courses/java-persistence-api-21)
 
-# Interoperability Tier
+## Interoperability Tier
 - JAX-WS:
 - JAX-RS:
   + [RESTful Service with JAX-RS 2.0 - Alex Theedom](https://www.lynda.com/Java-tutorials/RESTful-Service-JAX-RS-2-0/574687-2.html)
@@ -44,3 +46,32 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
 - JMS:
 - JavaMail:
 - JCA:
+
+# BOOK
+
+## Concept
+- Must have:
+  + Java EE 7 Essenials
+  + [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
+  + [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- Should have:
+
+- Nice to have:
+  + Beginning Java EE 7 - Antonio Goncalves
+  + Spring in Action
+  + Spring Boot in Action
+  + Just Spring
+
+## Approach & Solution
+- Must have:
+
+- Should have:
+
+- Nice to have:
+  + Building a RESTful Web Service - Ludovic Dewailly (View source code first)
+  + Spring Microservices
+  + Spring REST
+  + Building a REST API with Spring
+  + Spring Mvc Designing Real World Web Applications
+  + Spring Persistence with Hibernate
+  + Spring Recipes A Problem Solution Approach 3rd
