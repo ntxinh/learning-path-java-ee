@@ -1,6 +1,19 @@
 # ARCHITECTURE
 
-![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Java-EE-architecture.png)
+## Web Profile
+![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Web-profile.png)
+
+## Java EE Architecture
+![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Java-EE-Architecture.png)
+
+## Java EE Tiers
+![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Java-EE-tiers.png)
+
+## Rest Application
+![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Rest-Application.png)
+
+## Web Application
+![alt text](https://github.com/nguyentrucxinh/learning-path-java-ee/blob/master/Web-Application.png)
 
 Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Java-tutorials/Java-Enterprise-Edition-Introduction/516591-2.html)
 
