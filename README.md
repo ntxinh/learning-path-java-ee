@@ -51,7 +51,7 @@ Full: [Learning Java Enterprise Edition - Alex Theedom](https://www.lynda.com/Ja
 
 ## Concept
 - Must have:
-  + Java EE 7 Essenials | O'Reilly Media | Arun Gupta
+  + `Java EE 7 Essenials | O'Reilly Media | Arun Gupta`
   + [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/)
   + [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - Should have:
